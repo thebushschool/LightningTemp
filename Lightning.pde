@@ -1,12 +1,9 @@
-void setup()
-{
-  size(300,300);
+double myD = 2.5;
+Balloon myB;
+void setup() {
+  myB = Balloon();
 }
-void draw()
-{
 
-}
-void mousePressed()
-{
-
+void draw() {
+  
 }
