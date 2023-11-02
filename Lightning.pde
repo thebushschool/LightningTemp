@@ -5,7 +5,7 @@
 
 void setup()
 {
-  size(300, 800);
+  size(500, 600);
   strokeWeight(1);
   background(255);
 }
